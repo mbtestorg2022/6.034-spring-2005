@@ -46,12 +46,57 @@ The course covers three major areas:
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final | 30% |
-| Quizzes | 30% |
-| On-line Assignments + Recitation Participation | 25% |
-| Design Problems | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+On-line Assignments + Recitation Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Problems
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The on-line assignments are an essential component of the subject and are required. A 90% score on any on-line assignment gets full credit. There is no difference between 90% and 100%. An average score below 75% on the on-line assignments will result in a grade of incomplete in the subject.
 
@@ -93,15 +138,141 @@ Desired Student Outcomes
 
 A student completing 6.034 will be able to:
 
-| OUTCOMES | HOW MEASURED | RELATED OBJECTIVES |
-| --- | --- | --- |
-| 1\. Predict the behavior of backward-chaining rule-based systems. | H, Q | 1, 2 |
-| 2\. Predict the behavior and estimate the cost in time and space of various heuristic and optimal search methods (i.e. depth-first, breadth-first, best-first, uniform-cost, and A\*), and choose the appropriate method for particular problems. | H, Q | 1, 2 |
-| 3\. Predict the behavior of various constraint-satisfaction methods (backtracking, forward-checking, constraint propagation), and choose the appropriate method for particular problems. | H, Q | 1, 2 |
-| 4\. Develop small logic-based, rule-based and search-based systems, predict performance characteristics, and describe the role of rule-chaining and search in intelligent-system engineering. | H | 3, 4 |
-| 5\. Use rules and logic to represent behavioral, classification, and causal knowledge. | H, Q | 1, 2 |
-| 6\. Apply basic machine learning methods such as nearest neighbors, identification trees, and neural nets. | H, Q | 1, 2 |
-| 7\. Predict the behavior of the basic machine-learning methods, and choose the appropriate method for particular problems. | H, Q | 1, 2 |
-| 8\. Modify and extend simple implementations of the subject's representations and methods. | H, Q | 3, 4 |
-| 9\. Develop small learning systems, predict performance characteristics, and describe the role of learning in intelligent-system engineering. | H | 3, 4 |
-| 10\. Discuss key issues in knowledge representation, problem solving, and learning. | H | 1, 2, 3, 4, 5
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+OUTCOMES
+{{< thclose >}}
+{{< thopen >}}
+HOW MEASURED
+{{< thclose >}}
+{{< thopen >}}
+RELATED OBJECTIVES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Predict the behavior of backward-chaining rule-based systems.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Predict the behavior and estimate the cost in time and space of various heuristic and optimal search methods (i.e. depth-first, breadth-first, best-first, uniform-cost, and A\*), and choose the appropriate method for particular problems.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Predict the behavior of various constraint-satisfaction methods (backtracking, forward-checking, constraint propagation), and choose the appropriate method for particular problems.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Develop small logic-based, rule-based and search-based systems, predict performance characteristics, and describe the role of rule-chaining and search in intelligent-system engineering.
+{{< tdclose >}}
+{{< tdopen >}}
+H
+{{< tdclose >}}
+{{< tdopen >}}
+3, 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Use rules and logic to represent behavioral, classification, and causal knowledge.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Apply basic machine learning methods such as nearest neighbors, identification trees, and neural nets.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7\. Predict the behavior of the basic machine-learning methods, and choose the appropriate method for particular problems.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8\. Modify and extend simple implementations of the subject's representations and methods.
+{{< tdclose >}}
+{{< tdopen >}}
+H, Q
+{{< tdclose >}}
+{{< tdopen >}}
+3, 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9\. Develop small learning systems, predict performance characteristics, and describe the role of learning in intelligent-system engineering.
+{{< tdclose >}}
+{{< tdopen >}}
+H
+{{< tdclose >}}
+{{< tdopen >}}
+3, 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10\. Discuss key issues in knowledge representation, problem solving, and learning.
+{{< tdclose >}}
+{{< tdopen >}}
+H
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2, 3, 4, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
