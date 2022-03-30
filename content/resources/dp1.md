@@ -7,6 +7,7 @@ description: This assignment looks at problems drawn (but simplified) from real 
   grading criteria, problem descriptions and sample solutions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-034-artificial-intelligence-spring-2005/430b637f7b8a84dd833db697186a7ce8_dp1.pdf
 file_type: application/pdf
+parent_uid: a880f814-6da2-2c58-4fe0-465835177a76
 resourcetype: Document
 title: dp1.pdf
 uid: 430b637f-7b8a-84dd-833d-b697186a7ce8

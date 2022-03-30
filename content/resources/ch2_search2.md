@@ -5,6 +5,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   they study for upcoming assignments and quizzes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-034-artificial-intelligence-spring-2005/089f994f6a760c3c0b34e43dcd18ea60_ch2_search2.pdf
 file_type: application/pdf
+parent_uid: 427ff890-f3d0-577b-50d8-a87738f60929
 resourcetype: Document
 title: ch2_search2.pdf
 uid: 089f994f-6a76-0c3c-0b34-e43dcd18ea60
